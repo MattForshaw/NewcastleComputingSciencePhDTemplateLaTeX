@@ -11,10 +11,11 @@ Forshaw, Matthew. Operating Policies for Energy Efficient Large Scale Computing.
 http://mattforshaw.com/publications/forshaw2015operating.html
 
 ## Starting point
-CUED LaTeX template by Krishna Kumar at https://github.com/kks32/phd-thesis-template.
+The suggested starting point is the CUED LaTeX template by Krishna Kumar, available at https://github.com/kks32/phd-thesis-template. This template is mature, well-maintained and has been used successfully within our School on a number of occasions.
 
+You can either download the template as a zip file, or you can fork the repository to your own Github account (recommended).
 
-## Custom margins
+### 1.1. Custom margins
 
 To add custom margins, in accordance with the guidelines, add the ````custommargin```` option to your documentclass at the top of ````thesis.tex````.
 
